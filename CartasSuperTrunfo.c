@@ -130,14 +130,44 @@ int main()
 
         if (populacao1 == populacao2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("População: %f\n", populacao1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("População: %f\n", populacao2);
+
             printf("Empatou!\n");
         }
         else if (populacao1 > populacao2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("População: %f\n", populacao1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("População: %f\n", populacao2);
+
             printf("Carta 1 Venceu!\n");
         }
         else
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("População: %f\n", populacao1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("População: %f\n", populacao2);
+
             printf("Carta 2 Venceu!\n");
         }
         break;
@@ -146,14 +176,44 @@ int main()
 
         if (area1 == area2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Area: %f\n", area1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Area: %f\n", area2);
+
             printf("Empatou!\n");
         }
         else if (area1 > area2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Area: %f\n", area1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Area: %f\n", area2);
+
             printf("Carta 1 Venceu!\n");
         }
         else
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Area: %f\n", area1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Area: %f\n", area2);
+
             printf("Carta 2 Venceu!\n");
         }
         break;
@@ -162,14 +222,44 @@ int main()
 
         if (PIB1 == PIB2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("PIB: %f\n", PIB1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("PIB: %f\n", PIB2);
+
             printf("Empatou!\n");
         }
         else if (PIB1 > PIB2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("PIB: %f\n", PIB1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("PIB: %f\n", PIB2);
+
             printf("Carta 1 Venceu!\n");
         }
         else
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("PIB: %f\n", PIB1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("PIB: %f\n", PIB2);
+
             printf("Carta 2 Venceu!\n");
         }
         break;
@@ -178,14 +268,44 @@ int main()
 
         if (NPT1 == NPT2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Numero de Pontos Turisticos: %f\n", NPT1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Numero de Pontos Turisticos: %f\n", NPT2);
+
             printf("Empatou!\n");
         }
         else if (NPT1 > NPT2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Numero de Pontos Turisticos: %f\n", NPT1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Numero de Pontos Turisticos: %f\n", NPT2);
+
             printf("Carta 1 Venceu!\n");
         }
         else
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Numero de Pontos Turisticos: %f\n", NPT1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Numero de Pontos Turisticos: %f\n", NPT2);
+
             printf("Carta 2 Venceu!\n");
         }
         break;
@@ -194,14 +314,44 @@ int main()
 
         if (densidade1 == densidade2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Densidade Populacional: %f\n", densidade1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Densidade Populacional: %f\n", densidade2);
+
             printf("Empatou!\n");
         }
         else if (densidade1 < densidade2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Densidade Populacional: %f\n", densidade1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Densidade Populacional: %f\n", densidade2);
+
             printf("Carta 1 Venceu!\n");
         }
         else
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Densidade Populacional: %f\n", densidade1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Densidade Populacional: %f\n", densidade2);
+
             printf("Carta 2 Venceu!\n");
         }
         break;
@@ -210,14 +360,44 @@ int main()
 
         if (PIBpercapita1 == PIBpercapita2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("PIB Per Capita: %f\n", PIBpercapita1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("PIB Per Capita: %f\n", PIBpercapita2);
+
             printf("Empatou!\n");
         }
         else if (PIBpercapita1 > PIBpercapita2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("PIB Per Capita: %f\n", PIBpercapita1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("PIB Per Capita: %f\n", PIBpercapita2);
+
             printf("Carta 1 Venceu!\n");
         }
         else
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("PIB Per Capita: %f\n", PIBpercapita1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("PIB Per Capita: %f\n", PIBpercapita2);
+
             printf("Carta 2 Venceu!\n");
         }
         break;
@@ -226,14 +406,44 @@ int main()
 
         if (SuperPoder1 == SuperPoder2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Super Poder: %f\n", SuperPoder1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Super Poder: %f\n", SuperPoder2);
+
             printf("Empatou!\n");
         }
         else if (SuperPoder1 > SuperPoder2)
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Super Poder: %f\n", SuperPoder1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Super Poder: %f\n", SuperPoder2);
+
             printf("Carta 1 Venceu!\n");
         }
         else
         {
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Super Poder: %f\n", SuperPoder1);
+
+            printf("País: %s\n", pais);
+            printf("Estado: %s\n", estado2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Super Poder: %f\n", SuperPoder2);
+
             printf("Carta 2 Venceu!\n");
         }
         break;
